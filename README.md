@@ -1,4 +1,6 @@
 # Linear-Algebra-Project
-The first project implements Spectrul Clustering for a graph, using numpy and sklearn libraries.
+I have done this project as a final project for the course "Linear Algebra" during spring 2023 semester. This project contains two jupyter notebooks with following subjects:
 
-The second project implements compression and denoising of image files, using fft-2 and SVD methods.
+  1. Spectrul clustering of a graph using numpy, sklearn and matplotlib packages.
+  2. Image compression and denoising with fft-2 and SVD methods.
+
